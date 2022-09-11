@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.main-page {
+  max-width: 600px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.main-page .navigate {
+  margin-top: 40px;
+}
+
+.navigate {
+  background: #4caf50;
+  color: #fff;
+  text-align: center;
+  max-width: 150px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  text-decoration: none;
+}
+.navigation {
+  margin-top: 40px;
+}
+
+.news {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 50px 20px;
+  width: 100%;
+}
+
+.news-item {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+  max-width: 250px;
+}
